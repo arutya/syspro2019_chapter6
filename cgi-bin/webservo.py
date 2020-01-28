@@ -5,7 +5,7 @@ import cgitb
 import time
 import RPi.GPIO as GPIO
 
-##  HTML
+###  HTML
 print('Content-type: text/html; charset=UTF-8\r\n')
 print('Web Servo')
 
